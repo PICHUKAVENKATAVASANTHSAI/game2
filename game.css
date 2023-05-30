@@ -1,0 +1,27 @@
+body{
+    color: rgb(243, 0, 0);
+    background-image: url(image.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: 150px;
+}
+button{
+    width: 60px;
+    height: 25px;
+    font-weight: bold;
+    border-color: rgb(255, 145, 0);
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(0, 183, 255);
+}
+input[type=number]{
+    width: 200px;
+    height: 20px;
+    box-shadow: 0 0 20px;
+}
+fieldset{
+    width: 400px;
+    margin-left: 600px;
+    border-color: rgb(230, 17, 17); ;
+}
